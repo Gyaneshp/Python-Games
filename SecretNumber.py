@@ -1,4 +1,4 @@
-# Think of any Secret number, and I'll find out!
+# Think of any Secret number, and I'll find that out!
 import random
 
 multiply_number = random.randrange(2,5)
